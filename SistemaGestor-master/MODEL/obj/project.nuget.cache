@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YtX51NIpI9nE5MfLap0YO5JSVaj42OagTUkIvIHU27/QaWSS3OPC4FdZfLtbRDfIEo5ExOjVmJOE4J3V9bhYcg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Igor\\Desktop\\AV3LP3\\MODEL\\MODEL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
